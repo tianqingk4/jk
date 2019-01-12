@@ -1,0 +1,8 @@
+.user.ini
+public/.user.ini
+storage/*
+config/.config.php
+resources/views/material/analytics.tpl
+*.iml
+*.xml
+*.bak
